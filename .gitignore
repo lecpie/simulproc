@@ -1,0 +1,17 @@
+#Qtcreator
+i
+*.pro
+*.pro.user*
+
+#fournis
+doc/
+Examples/
+*.pdf
+
+#bin
+asm
+test_simul
+*.o
+libsimul.a
+*.bin
+

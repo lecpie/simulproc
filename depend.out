@@ -1,0 +1,2 @@
+main.o: main.c
+test_simul.o: test_simul.c machine.h instruction.h debug.h
